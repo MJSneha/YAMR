@@ -11,7 +11,7 @@ The nodes are implemented as processes from multiprocess module.
 
 1. Clone the repository
 ```
-git clone https://github.com/Projects-RR-2022/BD1_558_594_605_612
+git clone https://github.com/MJSneha/YAMR.git
 
 ```
 2. Get into the directory as per your requirements.
